@@ -7,10 +7,11 @@ I created this script to perform quick installation for the new clean servers, i
 Make sure the read below;
 
 This is an Installation Script For ==>>
-
-Server Version : Ubuntu 18.04
-FreePBX Version : FreePBX 14
-Asterisk Version: Asterisk 13.18.3
+<pre/>
+Server Version : Ubuntu 18.04 
+FreePBX Version : FreePBX 14 
+Asterisk Version: Asterisk 13.18.3 
+</pre>
 
 
 The script will only work if you are ROOT user
