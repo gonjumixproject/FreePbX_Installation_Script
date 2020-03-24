@@ -15,9 +15,9 @@ Asterisk Version: Asterisk 13.18.3
 
 
 The script will only work if you are ROOT user </br>
-Become ROOT user if you did not already
+Become ROOT user if you did not already</br>
 
-The script will work for the clean server image without any installation
+The script will work for the clean server image without any installation</br>
 If you want to reinstall FreePBX, the script will fail
 
 
