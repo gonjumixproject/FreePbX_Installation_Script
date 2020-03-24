@@ -14,7 +14,7 @@ Asterisk Version: Asterisk 13.18.3
 </pre>
 
 
-The script will only work if you are ROOT user
+The script will only work if you are ROOT user </br>
 Become ROOT user if you did not already
 
 The script will work for the clean server image without any installation
