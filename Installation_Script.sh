@@ -4,16 +4,12 @@ echo "Server Version : Ubuntu 18.04"
 echo "FreePBX Version : FreePBX 14"
 echo "Asterisk Version: Asterisk 13.18.3"
 echo ""
-
 echo "The script will only work if you are ROOT user"
 echo "Become ROOT user if you did not already"
 echo ""
-
-
 echo "The script will work for the clean server image without any installation"
 echo "If you want to reinstall FreePBX, the script will fail"
 echo ""
-
 echo "https://wiki.freepbx.org/display/FOP/Installing+FreePBX+14+on+Ubuntu+18.04 page is used"
 echo ""
 
