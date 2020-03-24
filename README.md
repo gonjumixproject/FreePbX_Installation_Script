@@ -24,8 +24,9 @@ https://wiki.freepbx.org/display/FOP/Installing+FreePBX+14+on+Ubuntu+18.04 page 
 
 
 How to Use it :
-
+<pre/>
 su -
 git clone https://github.com/gonjumixproject/FreePbX_Installation_Script
 cd FreePbX_Installation_Script/
 ./Installation_Script.sh
+</pre>
