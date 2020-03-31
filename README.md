@@ -31,3 +31,12 @@ git clone https://github.com/gonjumixproject/FreePbX_Installation_Script
 cd FreePbX_Installation_Script/
 ./Installation_Script.sh
 </pre>
+
+FreePBX 14 to 15 Upgrade:
+<pre/>root@gonca:~# fwconsole ma downloadinstall
+root@gonca:~# fwconsole versionupgrade --check
+root@gonca:~# fwconsole reload
+root@gonca:~# fwconsole chown
+root@gonca:~# fwconsole versionupgrade --check
+root@gonca:~# fwconsole versionupgrade --upgrade
+</pre>
